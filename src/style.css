@@ -41,12 +41,12 @@
 
 @media(max-width:500px) {
     #html {
-        height: 50vh;
+        height: 60vh;
         overflow: auto;
     }
 
     #div1Wrapper {
-        height: 50vh;
+        height: 40vh;
     }
 
     #div1 {
